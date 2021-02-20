@@ -12,6 +12,8 @@ public class Arrays_Practice {
 		long long_numbers[] = new long[8];
 		String bestOfThebest[] = new String[5];
 		
+		String temp = "hi there";
+		
 
 		  
 		   
