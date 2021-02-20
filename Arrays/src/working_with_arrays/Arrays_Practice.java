@@ -14,7 +14,7 @@ public class Arrays_Practice {
 		   String[] name = new String[7];
 		   
 		   System.out.println(arry);
-
+           System.out.println(letters);
 	}
 
 }
