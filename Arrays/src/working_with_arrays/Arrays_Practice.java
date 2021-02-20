@@ -6,12 +6,24 @@ public class Arrays_Practice {
 
 		// String [] names = {"Bob", "Josh", "Ivan"};
 		// int even_numbers [] = { 8, 4, 6, 2 };
+<<<<<<< HEAD
 
 		char letters[] = new char[1];
 		double arry[] = new double[5];
 		long long_numbers[] = new long[8];
 		String best[] = new String[5];
 		
+=======
+		   char letters [] = new char [1];
+		   double arry [] = new double [5];
+
+		   long long_numbers [] = new long [8];
+		   
+		   String[] name = new String [3];
+			name [0] = "Rich";
+			name [1] = "David";
+			name [2] = "Andrew";
+>>>>>>> branch 'master' of https://github.com/dmytroyurchyk/Arrays.git
 
 	}
 
