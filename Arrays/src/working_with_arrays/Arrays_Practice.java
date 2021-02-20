@@ -9,6 +9,11 @@ public class Arrays_Practice {
 		   char letters [] = new char [1];
 		   double arry [] = new double [5];
 		   long long_numbers [] = new long [8];
+		   int more [] = new int[9];
+		   String[] name = new String[7];
+		   
+		   System.out.println(arry);
+		   
 
 	}
 
