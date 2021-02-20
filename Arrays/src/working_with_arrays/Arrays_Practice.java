@@ -3,15 +3,22 @@ package working_with_arrays;
 public class Arrays_Practice {
 
 	public static void main(String[] args) {
-		
-		// String [] names = {"Bob", "Josh", "Ivan"};
-		// int even_numbers [] = { 8, 4, 6, 2 };
-		   char letters [] = new char [1];
-		   double arry [] = new double [5];
 
-		   long long_numbers [] = new long [8];
-		   int more [] = new int[9];
-		   String[] name = new String[7];
+		// String [] names = {"Bob", "Josh", "Ivan"};
+		
+
+		char letters[] = new char[1];
+		double arry[] = new double[5];
+		long long_numbers[] = new long[8];
+		String bestOfThebest[] = new String[5];
+		
+
+		  
+		   
+		   String[] name = new String [3];
+			name [0] = "old one";
+			name [1] = " new one";
+	
 		   
 		   System.out.println(arry);
            System.out.println(letters);
