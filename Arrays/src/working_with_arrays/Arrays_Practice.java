@@ -4,7 +4,7 @@ public class Arrays_Practice {
 
 	public static void main(String[] args) {
 
-		// String [] names = {"Bob", "Josh", "Ivan"};
+		// String [] names = {"Lob", "Rob", "Kob"};
 		
 
 		char letters[] = new char[1];
